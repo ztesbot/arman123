@@ -226,17 +226,17 @@ function create_config( )
     "leave_ban",
     "admin"
     },
-    sudo_users = {198828890},--Sudo users
+    sudo_users = {139837032},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[W_SaTaN_W V 1
+    about_text = [[megaredstorm V 1
     Advanced Bot Base On Seed
     
-    @WilSoN_DeVeLoPeR[DeVeLoPeR] 
-    
-    #Open_Source 
-    [@W_SaTaN_W] [Https://github.com/DeterGent-Legion/MeGa_SaTaN]
-    
+    @djmjcj[DeVeLoPeR] 
+    thank you my good friends
+    @shahabambesik
+    @lanatan_hacker
+    @pouya_x_boy
 ]],
     help_text_realm = [[
 Realm Commands:
